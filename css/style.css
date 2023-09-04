@@ -188,6 +188,10 @@ section[id] {
     font-size: 40px;
 }
 
+.about-content-right span{
+    font-weight: 500;
+}
+
 .about-content-right .box-content h3 {
     font-size: 20px;
     font-weight: 400;
@@ -220,7 +224,7 @@ section[id] {
 .skills .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 30px;
 }
 
 .container .container-box {
